@@ -1,7 +1,3 @@
-*This is a minimal copy of the MLPerf loadgen tool, 
- extracted from the [inference repository](https://github.com/mlcommons/inference)
- to reduce size.*
-
 # Overview {#mainpage}
 
 ## Introduction
